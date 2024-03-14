@@ -3,7 +3,6 @@ Create or build a Music Player project. This project allows users to play and ma
 collection with features such as playlist creation, song selection, playback controls (play, pause,
 skip), and volume adjustment.
 
-For a full description of the module, visit the
-[source code](https://www.drupal.org/project/admin_menu).
-Submit bug reports and feature suggestions, or track changes in the
-[Video link](https://www.drupal.org/project/issues/admin_menu).
+This is Program code with video :
+[source code](https://github.com/thariqali08/Python-Internship-Project/blob/main/Python%20Project%20Task-1.py) &
+[video link](https://github.com/thariqali08/Python-Internship-Project/blob/main/Python%20Project%20Task-1.mp4).
